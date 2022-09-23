@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "boto3"
+  site-url: "https://bchapm5.github.io/boto3"
+  description: "testing the python boto3 library"
+  repo-branch: main
+  repo-url: "https://github.com/bchapm5/boto3"
